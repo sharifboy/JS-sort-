@@ -8,5 +8,5 @@ const descending = arr.sort((a, b) => a > b ? -1 : 1);
 console.log(descending);
 
 // sort in ascending order
-const ascending = arr.sort((a, b) => a > b ? 1 : -1);
+const ascending = alphabet.sort((a, b) => a > b ? 1 : -1)
 console.log(ascending);
